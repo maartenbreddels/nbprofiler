@@ -32,7 +32,7 @@ $ curl localhost:8888/profiler/report/tottime
 ```
 
 # Documentation
-[Use the source Luke!](https://github.com/maartenbreddels/nbprofiler/nbprofiler/ext.py) and google cProfile.
+[Use the source Luke!](https://github.com/maartenbreddels/nbprofiler/blob/master/nbprofiler/ext.py) and google cProfile.
 
 
 
