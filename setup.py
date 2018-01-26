@@ -29,6 +29,7 @@ setup_args = {
     'description': 'Exposing ipywidgets (or jupyter-js-widgets) outside the notebook',
     'long_description': LONG_DESCRIPTION,
     'data_files': [('etc/jupyter/jupyter_notebook_config.d', ['nbprofiler.json'])],
+    'packages': ['nbprofiler'],
     'include_package_data': True,
     'author': 'Maarten A. Breddels',
     'author_email': 'maartenbreddels@gmail.com',
